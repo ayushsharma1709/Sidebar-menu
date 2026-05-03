@@ -9,5 +9,3 @@ Through this project, I learned:
 - Transitions and hover effects
 - Sidebar UI design
 - Working with icons and layouts
-
-I will continue improving this project as I learn more advanced concepts.
